@@ -1,2 +1,3 @@
 # Patterns
-pattern in c
+pattern in c language
+
