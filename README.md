@@ -1,3 +1,5 @@
 # Patterns
-pattern in c language
+Different types of patterns 
+coded in c language
+
 
