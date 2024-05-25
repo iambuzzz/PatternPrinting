@@ -1,4 +1,5 @@
 #include<stdio.h>
+//patterns functions declare
 void rectangle_pattern();
 void rightangletriangle_pattern();
 void invertedrightangletriangle_pattern();
